@@ -1,0 +1,2 @@
+# scrips
+Scrips Wiki
