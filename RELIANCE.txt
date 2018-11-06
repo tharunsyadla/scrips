@@ -1,5 +1,7 @@
 BAD
     High debt
+    Inflated Sales
+        Retail, Jio
 
     Issues
         Energy
